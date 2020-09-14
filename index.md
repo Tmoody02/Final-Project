@@ -4,9 +4,7 @@ This is the main page for Tyler Moody's Final Project
 
 ### Contact Information
 
-Name: Tyler Moody
-Address: 36 Spring Lake Cir Savannah, Ga 31407
-Email: T.Moosy2@gmal.com or tmoody16_gsou@go.view.usg.edu
+[https://tmoody02.github.io/Final-Project/Contact%20Info]
 
 ### Jekyll Themes
 
