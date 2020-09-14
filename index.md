@@ -49,7 +49,7 @@ This should have a method for the customer to provide the
 
 ### Links to Deliverables
 
-[Project Objectives](https://github.com/Tmoody02/Final-Project/blob/master/Project%20Objectives.md)
+[Project Objectives](https://github.com/Tmoody02/Final-Project/Project%20Objectives.md)
 
 [Analysis Report](https://github.com/Tmoody02/Final-Project/blob/master/Analysis%20Report.md)
 
