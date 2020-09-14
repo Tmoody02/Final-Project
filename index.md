@@ -6,4 +6,4 @@ This is the main page for Tyler Moody's Final Project
 
 [Project Overview](https://tmoody02.github.io/Final-Project/Project%20Overview)
 
-[List of Deliverables](https://tmoody02.github.io/Final-Project/List%20of%20Deliverables)
+[List of Deliverables](https://github.com/Tmoody02/Final-Project/blob/master/List%20of%20Deliverables)
