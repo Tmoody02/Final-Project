@@ -51,6 +51,4 @@ This should have a method for the customer to provide the
 
 [Contact Information](https://tmoody02.github.io/Final-Project/Contact%20Info)
 
-[Project Overview](https://tmoody02.github.io/Final-Project/Project%20Overview)
 
-[List of Deliverables](https://github.com/Tmoody02/Final-Project/blob/master/List%20of%20Deliverables)
