@@ -4,13 +4,13 @@ Design form to be submitted by the customer.
 
 This should have a method for the customer to provide the 
 
-Who, 
+**Who, 
 
 -Name of the business that needs to be installed and appear on the account
 
 -Contact information of representative of business that will be at location for install
 
-What, 
+**What, 
 
 -What type of service is desired by the potential customer
 
@@ -20,18 +20,18 @@ What,
 
 -Is there any additional wiring desired to be completed by the ISP
 
-When, 
+**When, 
 
 -What is the desired install date for service to the business
 
 -How long is the service desired
 
-and Where.
+**and Where.
 
 -Address for the business to be installed
 
-Establish a database to record data provided by the customers on the previously designed form.
+**Establish a database to record data provided by the customers on the previously designed form.
 
 -Have information available upon request so that sales reps can access as a lead and technicians can access at time of install to answer any potential questions. 
 
-Establish method for representatives of the ISP to access the database previously created.
+**Establish method for representatives of the ISP to access the database previously created.
