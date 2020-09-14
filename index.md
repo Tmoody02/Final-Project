@@ -53,12 +53,12 @@ This should have a method for the customer to provide the
 
 [Analysis Report](https://tmoody02.github.io/Final-Project/Analysis%20Report)
 
-[Weekly Time Log Reports](https://tmoody02.github.io/Final-Project/Contact%20Info)
+[Weekly Time Log Reports](https://tmoody02.github.io/Final-Project/Weekly%20Time%20Logs)
 
-[Progress Reports](https://tmoody02.github.io/Final-Project/Contact%20Info)
+[Progress Reports](https://tmoody02.github.io/Final-Project/Progress%20Reports)
 
-[Most Meaningful Objective Report](https://tmoody02.github.io/Final-Project/Contact%20Info)
+[Most Meaningful Objective Report](https://tmoody02.github.io/Final-Project/Most%20Meaningful%20Objective%20Report)
 
-[Final Project](https://tmoody02.github.io/Final-Project/Contact%20Info)
+[Final Project](https://tmoody02.github.io/Final-Project/Final%20Project)
 
 
