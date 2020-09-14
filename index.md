@@ -1,32 +1,12 @@
-## Welcome to GitHub Pages
+## Tyler Moody's Final Project
 
-You can use the [editor on GitHub](https://github.com/Tmoody02/Final-Project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the main page for Tyler Moody's Final Project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact Information
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Name: Tyler Moody
+Address: 36 Spring Lake Cir Savannah, Ga 31407
+Email: T.Moosy2@gmal.com or tmoody16_gsou@go.view.usg.edu
 
 ### Jekyll Themes
 
