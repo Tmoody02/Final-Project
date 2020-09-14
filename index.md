@@ -51,7 +51,7 @@ This should have a method for the customer to provide the
 
 [Project Objectives](https://github.com/Tmoody02/Final-Project/blob/master/Project%20Objectives.md)
 
-[Analysis Report](https://tmoody02.github.io/Final-Project/Contact%20Info)
+[Analysis Report](https://github.com/Tmoody02/Final-Project/blob/master/Analysis%20Report.md)
 
 [Weekly Time Log Reports](https://tmoody02.github.io/Final-Project/Contact%20Info)
 
