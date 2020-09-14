@@ -4,7 +4,7 @@ This is the main page for Tyler Moody's Final Project
 
 ### Contact Information
 
-[https://tmoody02.github.io/Final-Project/Contact%20Info]
+https://tmoody02.github.io/Final-Project/Contact%20Info
 
 ### Jekyll Themes
 
