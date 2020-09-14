@@ -1,4 +1,4 @@
-[h1]Contact Information[/h1]
+**Contact Information**
 
 Name: Tyler Moody
 
