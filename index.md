@@ -49,6 +49,16 @@ This should have a method for the customer to provide the
 
 ### Links to Deliverables
 
-[Contact Information](https://tmoody02.github.io/Final-Project/Contact%20Info)
+[Project Objectives](https://tmoody02.github.io/Final-Project/Contact%20Info)
+
+[Analysis Report](https://tmoody02.github.io/Final-Project/Contact%20Info)
+
+[Weekly Time Log Reports](https://tmoody02.github.io/Final-Project/Contact%20Info)
+
+[Progress Reports](https://tmoody02.github.io/Final-Project/Contact%20Info)
+
+[Most Meaningful Objective Report](https://tmoody02.github.io/Final-Project/Contact%20Info)
+
+[Final Project](https://tmoody02.github.io/Final-Project/Contact%20Info)
 
 
