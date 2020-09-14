@@ -1,12 +1,8 @@
-## Tyler Moody's Final Project
-
 This is the main page for Tyler Moody's Final Project
 
 ### Contact Information
 
 [Contact Information](https://tmoody02.github.io/Final-Project/Contact%20Info)
-
-[Google](https://google.com)
 
 ### Jekyll Themes
 
