@@ -53,7 +53,7 @@ This should have a method for the customer to provide the
 
 [Analysis Report](https://tmoody02.github.io/Final-Project/Analysis%20Report)
 
-[Weekly Time Log Reports](https://tmoody02.github.io/Final-Project/Weekly%20Time%20Logs)
+[Weekly Time Log Reports](https://Tmoody02/Final-Project/master/Weekly%20Time%20Logs.md)
 
 [Progress Reports](https://tmoody02.github.io/Final-Project/Progress%20Reports)
 
